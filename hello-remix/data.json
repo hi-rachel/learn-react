@@ -1,0 +1,39 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "title": "첫 번째 이야기",
+      "body": "Remix..."
+    },
+    {
+      "id": 2,
+      "title": "두 번째 이야기",
+      "body": "Data Loading...!"
+    },
+    {
+      "id": 3,
+      "title": "세 번째 이야기",
+      "body": "Data Write!!!"
+    },
+    {
+      "title": "네 번째 이야기",
+      "body": "블라블라\n",
+      "id": 4
+    },
+    {
+      "title": "ㅇㅇ",
+      "body": "ㅇㅇ",
+      "id": 5
+    },
+    {
+      "title": "오",
+      "body": "오 된다 !!!!!",
+      "id": 6
+    },
+    {
+      "title": "된다 된다",
+      "body": "짱\n",
+      "id": 7
+    }
+  ]
+}
